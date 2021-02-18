@@ -4,17 +4,30 @@ title: Avinash K Singh
 subtitle: University of Technology Sydney
 ---
 
-I am PostDoctotal Research Fellow at the Australian Artificial Intelligence Institute, University of Technology Sydney.
+### Education and Qualifications
 
-The current interests of my research are to integrate the artificial intelligence (Al) technologies with cognitive neuroscience knowledge for exploring the cognitive functions, discovering the relationships between brain dynamics, evaluated everyday interaction, decision making, and develop robust brain computer interface.
+<ul>
+<li>2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D (Computer Science), University of Technology Sydney, Australia</a>.  </li>
+<li>2013 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S. (Software Systems), Birla Institute of Technology & Science, India</a>.  </li>
+<li>2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.C.A (Computer Applications), Indira Gandhi National Open University, India</a>.  </li>
+<li>2007 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. (Mathematics), Chhatrapati Shahu Ji Maharaj University, India</a>.</li>
+</ul>
 
-### Education
 
-To be added soon
+### Position Held
 
-### Experience
+<ul>
+<li>2019-now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brain Computer Interface Advisor, Human Plus AI, Australia</a>. </li>
+<li>2019-now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Research Fellow, University of Technology Sydney, Australia</a>.  </li>
+<li>2017-now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Futurist Speaker, Transhumanism Australia (think-tank), Australia</a>.  </li>
+<li>2017-2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Associate, School of Computer Science, University of Technology Sydney, Australia</a>.</li>
+<li>2015-2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Board of Directors, International Longevity Alliance (think-tank), France</a>.  </li>
+<li>2013-now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Founder and Core Member, India Future Society (think-tank), India</a>.  </li>
+<li>2012-2013 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Senior Software Engineer, Achermann & Partners Gmbh, Switzerland</a>.  </li>
+<li>2010-2012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Fellow, Harcourt Butler Technological University, India</a>.  </li>
+</ul>
 
-To be added soon
+
 
 
 

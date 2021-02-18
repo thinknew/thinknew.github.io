@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Avinash K Singh
 subtitle: University of Technology Sydney
 ---
 

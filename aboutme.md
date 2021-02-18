@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Avinash K Singh
-subtitle: University of Technology Sydney
+title: More about me
 ---
 
 ### Education and Qualifications

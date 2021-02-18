@@ -10,4 +10,9 @@ The current interests of my research are to integrate the artificial intelligenc
 
 ### News
 
-To be added soon
+<ul>
+<li> <b> <font color="#AB2222">[2021.02]</font> </b> A Functional model for BCI is accepted by <b>IEEE OJEMB</b>!</li>
+<li> <b> <font color="#AB2222">[2021.01]</font> </b> A Cognitive Conflict paper has been published by <b>Neuroimage</b>!</li>
+</ul>
+  
+

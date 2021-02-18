@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Avinash K Singh
 subtitle: University of Technology Sydney
 ---
 
@@ -8,6 +8,14 @@ I am PostDoctotal Research Fellow at the Australian Artificial Intelligence Inst
 
 The current interests of my research are to integrate the artificial intelligence (Al) technologies with cognitive neuroscience knowledge for exploring the cognitive functions, discovering the relationships between brain dynamics, evaluated everyday interaction, decision making, and develop robust brain computer interface.
 
-### News
+### Education
 
 To be added soon
+
+### Experience
+
+To be added soon
+
+
+
+

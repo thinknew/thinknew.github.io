@@ -3,9 +3,8 @@ layout: page
 title: Workshops
 ---
 
-## Annual BCI Workshops
+### Annual BCI Workshops
 
-### Overview
 The Annual BCI Workshop series is an event that brings together researchers, practitioners, and enthusiasts in the field of Brain-Computer Interfaces (BCIs). Each year, the workshop focuses on cutting-edge developments, applications, and challenges in the BCI domain, fostering collaboration and innovation across disciplines.
 
 ---

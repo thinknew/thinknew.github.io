@@ -3,7 +3,7 @@ layout: page
 title: "Openings"
 ---
 
-## 🧠 PhD Position Opening: Neuro-AI and Brain-Computer Interfaces
+### PhD Position Opening: Neuro-AI and Brain-Computer Interfaces
 
 We are seeking highly motivated and talented candidates to join our lab at the University of Technology Sydney as a PhD student for a recently funded Australian Research Council (ARC) Project. This position is perfect for individuals passionate about brain decoding, brain-computer interfaces, translational neuroscience, and AI-driven innovations. The research focuses on advancing cutting-edge brain decoding of mental imagery to develop Neuro-AI models capable of generating emotion-eliciting images.
 

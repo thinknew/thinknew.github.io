@@ -21,7 +21,9 @@ navbar-links:
   About Me: "index"
   Project: "projects"
   Workshop: "workshops"
+  Openings: "openings"
   Publications: "publications"
+  
 
 ################
 # --- Logo --- #

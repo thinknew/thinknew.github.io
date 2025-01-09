@@ -88,7 +88,7 @@ social-network-links:
 # --- General options --- #
 ###########################
 
-# full-width: true
+full-width: true
 
 # Select which social network share links to show in posts
 share-links-active:
@@ -281,7 +281,7 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-      full-width: true
+      # full-width: true
 
 # Exclude these files from production site
 exclude:

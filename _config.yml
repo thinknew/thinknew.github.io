@@ -38,7 +38,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/UTS.png"
 
 
 #####################################
@@ -82,13 +82,13 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
 ###########################
 
-full-width: true
+# full-width: true
 
 # Select which social network share links to show in posts
 share-links-active:
@@ -281,6 +281,7 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+      full-width: true
 
 # Exclude these files from production site
 exclude:

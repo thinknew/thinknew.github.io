@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name=”description” content= "A Hands-ob workshop on Brain-Computer Interface during University of Technology Sydney Techfest 2024."> <! — Maximum of 155 characters →
+		<meta property=”og:title” content="Hands-on workshop on Brain-Computer Interfac" /> <! — Maximum 35 characters →
+		<meta property=”og:url” content="https://thinknew.github.io/BCIWorkshop2023" /> <! — Full link to your webpage address →
+		<meta property=”og:image” content=”img/bg-5_small.png”> <! — Image(JPG or PNG) of size less than 300KB and minimum dimension of 300 x 200 pixel is advised →
+		<meta property=”og:type” content=”article” />
+
+
+		<title>Hands-on Workshop on Brain Computer Interface</title>
+		<script src="js/vue.js" type="text/javascript" charset="utf-8"></script>
+		<link rel="stylesheet" href="element-ui/theme-chalk/index.css">
+		<script src="element-ui/index.js"></script>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+	</head>
+	<body>
+		<div id="app">
+			<el-container>
+			  <el-header>
+				<div class="nav">
+					<a href="#home">Home</a>
+					<a href="#description">About</a>
+					<a href="#organiser">Organisers</a>
+
+					<!-- <a href="#speaker">Expert Speakers</a> -->
+					<a target="_blank" href="https://github.com/thinknew/BCIWorkshop">Hands-on Materials</a>
+					<a target="_blank" href="https://events.humanitix.com/brain-computer-interface-workshop-uts-tech-festival-2024">Get Tickets</a>
+					<a href="#sponsor">Sponsors</a>
+				</div>
+			  </el-header>
+			  <el-main>
+				  <div id="home">
+				  	<div class="inner">
+				  		<h1 align=center>Brain-Computer Interface Workshop</h1>
+				  		<h2 align=center>UTS Tech Festival 2024: Innovate and Compete in a Brain-Controlled Drone Race Challenge</h2>
+				  		<h2 align=center>Mon 17th June 2024, 10:00 am - 6:00 pm AEST</h2>
+				  	</div>
+				  </div>
+				  <div id="description">
+				  	<h1>About Workshop</h1>
+				  	<p>We are pleased to invite you to the hands-on workshop on Brain-Computer Interface (BCI), followed by an exciting BCI drone race competition. </p>
+				  	<p>This workshop aims to provide practical experience in designing and developing real-time Brain-Computer Interfaces (BCIs) using electroencephalogram (EEG) technology. It also promotes using open-source tools and practices to enhance community collaboration and advance BCI development. The workshop will conclude with a competition to develop BCI-based controls for a drone race, offering exciting prizes for the winners.</p>
+				  	<P>You will experience numerous Brain-Computer Interfaces example, coding sessions, model demonstrations and real-time hands-on activities with neurophysiological devices (wearable EEGs), followed by the first exciting drone race competition powered by BCI technology.</P>
+
+				  	<h3>When:</h3>
+				  	<p>Monday, June 17th 2024 from 10:00 AM - 6:00 PM </p>
+				  	<a href="https://events.humanitix.com/brain-computer-interface-workshop-uts-tech-festival-2024">Register here to secure your seat</a>
+				 	<h3>Where:</h3>
+				  	<p><span style="font-weight: bold;"><strong>Building 11, Level 00, Room 100</strong></span> <span style="font-style: italic;"></span></p>
+				  	<h3>Who:</h3>
+				  	<ul>
+				  		<li>BCI researchers </li>
+				  		<li>Students of all stages (graduate, Ph.D., postdocs, faculties) from the Neuroscience and Computational Intelligence community</li>
+				  		<li>Industry and research partners</li>
+				  		<li>Anyone else who is interested and basic knowledge of programming</li>
+				  	</ul>
+					<h3>Workshop Outline</h3>
+					<ul>
+						<li><strong>Learning and Building Brain-Computer Interface</strong> [10:00 AM - 12:30 PM]<ul>
+							<li>10:00 AM - 10:30 AM: BCI Intro and Examples </li>
+							<li>10:30 AM -11:15 AM: BCI with Google Collab  </li>
+							<li>11:15 AM - 12:00 PM: Building Real-Time BCI </li>
+							<li>12:00 PM- 12:30 PM: Flash Talks </li>
+						</ul></li>
+						<li><strong>Lunch</strong> [12:30 PM - 1:15 PM]</li>
+						<li><strong>BCI Drone Race Competition </strong> [1:30 PM - 5:00 PM]<ul>
+							<li>1:30 PM - 1:45 PM: Competition intro</li>
+							<li>1:45 PM - 4:00 PM: Competition Start </li>
+							<li>4:00 PM - 5:00 PM: Drone Race </li>
+						</ul></li>
+						<li><strong>Result and Networking </strong> [5:00 PM - 6:00 PM]<ul>
+							<li>5:00 PM - 5:10 PM Results announcement </li>
+							<li>5:10 PM - 6:00 PM Pizza and Networking</li>
+
+						</ul></li>
+
+				  	</ul>
+					<p><strong>(for hands-on setup, please bring your own laptop)</strong></p>
+                        <h3>Recommended background</h3>
+					<ul>
+					<li>Basic knowledge about EEG based BCI and machine learning</li>
+						<li>Basic knowledge in programming such as Python</li>
+					</ul>
+					<h3>Supported by:</h3>
+					<p style="font-weight: bold;">Symbiotic Devices Australia and Transhuman Coin</p>
+					<h3>Got a question :</h3>
+					<p>Please email to organiser Dr Avinash Singh at <span>avinash.singh@uts.edu.au. </span></p>
+				  </div>
+				  <div id="organiser">
+					  <h1>Organisers:</h1>
+					  
+					  <h2 class="underline">Main Organiser
+						<img src="./img/icon.png" style="width: 20px; height: 20px; margin-left: 10px;"/>
+					  </h2>
+					  
+					  <div class="card-container"> 
+					  
+						  <div class="card card-layout">
+							<el-avatar :size="80" :src="image1"></el-avatar>
+							<div class="card-body">
+							  <a href="https://www.linkedin.com/in/avinashks/" style="text-decoration: none"><h5 class="card-title">Dr Avinash K Singh</h5></a>
+							  <p class="card-text">Neuroadaptive Brain Computer Interface and Applied Machine Learning Researcher</p>
+							</div>
+						  </div>
+						  
+						  <div class="card card-layout">
+						    <el-avatar :size="80" :src="image3"></el-avatar>
+						    <div class="card-body">
+						      <a href="https://www.linkedin.com/in/howe-yuan-zhu/" style="text-decoration: none"><h5 class="card-title">Dr Howe Zhu</h5></a>
+						      <p class="card-text">Brain Computer Interface and Mixed Reality Researcher</p>
+						    </div>
+						  </div>
+						  
+						  <div class="card card-layout" style="visibility: hidden;">
+						  </div>
+								
+					  </div>
+
+
+					 <h2>BCI Paradigms
+						<img src="./img/icon.png" style="width: 20px; height: 20px; margin-left: 10px;"/>
+					  </h2>
+					  <div class="card-container"> 
+							<div class="card card-layout">
+						  	<el-avatar :size="80" :src="image6"></el-avatar>
+						  	<div class="card-body">
+						  		<a href="#" style="text-decoration: none"><h5 class="card-title">Raymond Chia</h5></a>
+						  		<p class="card-text">Machine Learning Researcher</p>
+						  	</div>
+						  </div>
+
+
+						  <div class="card card-layout">
+							<el-avatar :size="80" :src="image2"></el-avatar>
+							<div class="card-body">
+							  <a href="https://www.linkedin.com/in/quang-minh-nguyen-3a98b5157" style="text-decoration: none"><h5 class="card-title">Minh Nguyen</h5></a>
+							  <p class="card-text">Brain Computer Interface Researcher</p>
+							</div>
+						  </div>
+
+						  
+						  <div class="card card-layout">
+						   <el-avatar :size="80" :src="image7"></el-avatar>
+						   <div class="card-body">
+							 <a href="https://www.linkedin.com/in/yangyulin-ai-737635240/" style="text-decoration: none"><h5 class="card-title">Yangyulin Ai</h5></a>
+							 <p class="card-text">Hybrid Brain Computer Interface Researcher</p>
+						   </div>
+						 </div>
+					
+					  </div>
+
+
+
+					  <h2>Co-Contributor
+						<img src="./img/icon.png" style="width: 20px; height: 20px; margin-left: 10px;"/>
+					  </h2>
+
+					   <div class="card card-layout">
+						   <el-avatar :size="80" :src="image5"></el-avatar>
+						   <div class="card-body">
+							 <a href="https://au.linkedin.com/in/rachel-coster-680575a1" style="text-decoration: none"><h5 class="card-title">Rachel Coster</h5></a>
+							 <p class="card-text">Multi-Agent Path Finding and Scalable Algorithm Optimisation Researcher </p>
+						   </div>
+						 </div>
+
+
+
+
+
+
+
+					 <h2>Web Development
+						<img src="./img/icon.png" style="width: 20px; height: 20px; margin-left: 10px;"/>
+					 </h2>
+					 <div class="card-container">
+						 <div class="card card-layout">
+						   <el-avatar :size="80" :src="image7"></el-avatar>
+						   <div class="card-body">
+							 <a href="https://www.linkedin.com/in/yangyulin-ai-737635240/" style="text-decoration: none"><h5 class="card-title">Yangyulin Ai</h5></a>
+							 <p class="card-text">Hybrid Brain Computer Interface Researcher</p>
+						   </div>
+						 </div>	 
+						 
+						 <div class="card card-layout" style="visibility: hidden;">
+						 </div>
+						 
+						 <div class="card card-layout" style="visibility: hidden;">
+						 </div>
+					 </div>
+					 
+				  </div>
+
+
+				  <div id="speaker">
+					  <h1>Flash Talk Speakers</h1>
+					   <div class="card-container"> 
+					   
+							<div class="card card-layout">
+							  <el-avatar :size="80" :src="image8"></el-avatar>
+							  <div class="card-body">
+							    <a href="https://au.linkedin.com/in/kiley-seymour-a84b50237" style="text-decoration: none"><h5 class="card-title">A/Prof Kiley Seymour (UTS)</h5></a>
+							    <p class="card-text">Neuroscientist and privacy advocate</p>
+							  </div>
+							</div>
+							
+							<div class="card card-layout">
+								<el-avatar :size="80" :src="image9"></el-avatar>
+								<div class="card-body">
+									<a href="https://au.linkedin.com/in/peter-xing" style="text-decoration: none"><h5 class="card-title">Peter Xing</h5></a>
+									<p class="card-text">Data & AI Specialist in the Public Sector team at Microsoft</p>
+								</div>
+							</div>
+
+						   <div class="card card-layout">
+								<el-avatar :size="80" :src="image10"></el-avatar>
+								<div class="card-body">
+									<a href="https://au.linkedin.com/in/paddyheaton" style="text-decoration: none"><h5 class="card-title">Paddy Heaton</h5></a>
+									<p class="card-text">UTS Game Lab</p>
+								</div>
+							</div>
+							
+
+							
+					   </div>
+
+				  </div>
+
+
+
+				  <div id="sponsor">
+					  <h1>Sponsors and Supporters:</h1>
+					  <div class="image">
+						  <img src="img/logo1.png">
+						  <img src="img/logo.png">
+						  <img src="img/logo4_2.png">
+					  </div>
+				  </div>
+			  </el-main>
+			  <el-footer>
+				  <div class="footer">
+					  <h3 style="margin-top:15px;">Hands-on Workshop on Brain-Computer Interface</h3>
+					  <p style="margin-top:10px;"> <a href="https://www.uts.edu.au/about/faculty-engineering-and-information-technology/uts-tech-festival">UTS Tech Festival Copyright © 2024 All rights reserved</a></p>
+				  </div> 
+			  </el-footer>
+			</el-container>
+		</div>
+	</body>
+	<style>
+		*{
+			margin:0;
+			padding: 0;
+		}
+		
+		body{
+			background-color: #f2f3f7;
+		}
+		
+		.nav{
+			overflow: hidden;
+			background-color: white;
+			position: fixed;
+			top: 0;
+			width: 100%;
+			display: flex;
+			justify-content: center;
+			z-index: 1;
+			height: 70px;
+		}
+		
+		.nav a{
+			float: left;
+			display: block;
+			color: black;
+			text-align: center;
+			padding: 14px 16px;
+			text-decoration: none;
+			line-height: 50px;
+		}
+			
+		.nav a:hover:not(.active) {
+			color: #FF8B00;
+		}   
+		
+		.nav img{
+			position: relative;;
+			width: 170px;
+			margin-right: 30px;
+		}
+		
+		.active {
+			color: #FF8B00;
+		}
+
+
+
+		#home {
+			position: relative;
+			display: flex;
+			justify-content: center;
+			z-index: 0;
+			background-color: white;
+			background-image: url(img/bg-5.png);
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-position: center center;
+			padding-top: 60px;
+			height: 550px;
+    		transition: background-size 0.5s ease-in-out, background-position 0.5s ease-in-out; /* 添加更丝滑的过渡效果 */
+		}
+
+		#home:hover
+		{
+    		background-size: 95%;
+			background-position: center center;
+		}
+
+		#home .inner{
+			display: inline-block;
+			width: 60%;
+			position: absolute;
+			padding-top: 100px;
+		}
+		
+		#home h1{
+			text-transform: uppercase;
+			color: white;
+			font-size: 2.5rem;
+			display: flex;
+			justify-content: center;
+			font-family: "Oswald", sans-serif;
+			text-shadow: 0.1em 0.1em 0.2em black;
+			
+		}
+		
+		#home h2 {
+			width: 70%;
+			color: white;
+			font-size: 1.2rem;
+			display: flex;
+			justify-content: center;
+			text-align: center;	
+			font-family: "Oswald", sans-serif;
+			margin: 0 auto;
+			font-weight: 500;
+			margin-top: 25px;
+			text-shadow: 0.2em 0.2em 0.4em black;
+			font-style: italic;
+		}
+		
+		#home h3{
+			width: 70%;
+			color: white;
+			font-size: 0.9rem;
+			display: flex;
+			justify-content: center;
+			text-align: center;	
+			font-family: "Oswald", sans-serif;
+			margin: 0 auto;
+			font-weight: 500;
+			margin-top: 60px;
+			text-shadow: 0.2em 0.2em 0.4em black;
+			font-style: italic;
+		}
+		
+		#description{
+			margin: 0 auto;
+			width: 65%;
+			height: auto;
+		}
+		
+		#description h1{
+			font-size: 2.3rem;
+			display: flex;
+			justify-content: center;
+			text-align: center;	
+			padding-top: 100px;
+			padding-bottom: 40px;
+		}
+		
+		#description h3{
+			margin-top: 30px;
+			margin-bottom: 15px;
+		}
+		
+		#description ul, ol{
+			padding-left: 15px;
+		}
+		
+		#description p, li{
+			padding-bottom: 5px;
+		}
+		
+		#organiser{
+			margin: 0 auto;
+			width: 80%;
+			height: auto;
+		}
+		
+		.card-container{
+			width: 100%;
+			display: flex;
+			flex-wrap: nowrap;
+			justify-content: space-between;
+		}
+		
+		#organiser h1{
+			font-size: 2.3rem;
+			display: flex;
+			justify-content: center;
+			text-align: center;	
+			padding-top: 100px;
+	
+		}
+		
+		#organiser h2{
+			font-size: 1.8rem;
+			font-weight: 200;
+			color: #0c4358;
+			display: block;
+			line-height: 110%;
+			margin: 2.8rem 0 1.68rem 0;
+			border-collapse: collapse;
+			border-bottom: 1px solid #0c4358;
+			padding-bottom: 0.75rem;
+			grid-column-start: 1;
+			grid-column-end: 4;
+
+		}
+		
+		.email-icon {
+			margin-left: 18px;
+		}	
+		
+		.card{
+			align-items: center;
+			text-align: center;
+		}
+		.card-layout{
+			display: grid;
+			width: 20rem;
+			grid-template-columns: 30% 70%;
+			align-items: center;
+			padding-left: 20px;
+			height: 150px;
+
+		}
+		
+		.card-title{
+			color: #FF8B00;
+			font-size: medium;
+		}
+		
+		.card-text{
+			font-size: small;
+		}
+		
+		
+		#speaker{
+			margin: 0 auto;
+			width: 80%;
+			height: auto;
+		}
+		
+		#speaker h1{
+			font-size: 2.3rem;
+			display: flex;
+			justify-content: center;
+			text-align: center;	
+			padding-top: 100px;
+			padding-bottom: 40px;
+		}
+		
+		#sponsor{
+			margin: 0 auto;
+			width: 80%;
+			height: auto;
+			text-align: center;
+		}
+		
+		#sponsor h1{
+			font-size: 2.3rem;
+			display: flex;
+			justify-content: center;
+			text-align: center;	
+			padding-top: 100px;
+			padding-bottom: 40px;
+		}
+		
+		#sponsor img{
+			max-width: 300px;
+    		max-height: 200px;
+			width: auto;
+			height: auto;
+    		object-fit: contain;
+		}
+		
+		#sponsor .image{
+			display: flex;
+			justify-content: space-between;
+			text-align: center;	
+		}
+		
+		.footer{
+		        width:100%;
+		        margin:0px auto;
+		        margin-top:80px;
+				padding: 30px;
+		        text-align:center;
+		        background: #252c6b;
+		        color:white;
+		       
+		}
+		
+		.footer p{
+				padding-top: 55px;
+		        font-size:12px;
+		}
+		
+		.footer h3{
+		        color: #FFFFFF;
+		}
+	</style>
+	
+	<script>
+		var app = new Vue({
+			el:'#app',
+			data:{
+				circleUrl:"./img/300.jpg",
+				image1:"./img/image1.jpg",
+				image2:"./img/image2.jpg",
+				image3:"./img/image3.jpg",
+				image4:"./img/image4.jpg",
+				image5:"./img/image2024_4.png",
+				image6:"./img/image6.jpg",
+				image7:"./img/image7.jpg",
+				image8:"./img/image2024_1.jpg",
+				image9:"./img/image2024_2.jpg",
+				image10:"./img/image2024_3.jpg",
+			}
+		})
+		
+	</script>
+</html>

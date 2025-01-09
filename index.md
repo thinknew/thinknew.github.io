@@ -11,8 +11,7 @@ Working at the intersection of machine learning, cognitive neuroscience, and mix
 ## News & Updates
 ### Jan 2025
 - 🎓 **PhD Position Opening**:  
-  We are excited to announce two fully-funded PhD positions in my lab! This opportunity focuses on cutting-edge research in brain-computer interfaces and AI-driven neuroscience.  
-  - 🕒 **Deadline**: Until position is filled 
+  We are excited to announce two fully-funded PhD positions in my lab! This opportunity focuses on cutting-edge research in brain-computer interfaces and AI-driven neuroscience. See more details [here](https://thinknew.github.io/openings/)
 
 ### Dec 2024
 - 🎉 **Succesful Funding**: A newly funded project from ARC’s Linkage Project Scheme 2024 Round 1 - "Neuro-AI for Personalised Image Generation”. 

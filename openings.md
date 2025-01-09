@@ -9,9 +9,9 @@ We are seeking highly motivated and talented candidates to join our lab at the U
 
 ---
 
-## ✨ **What Are We Looking For?**
+### ✨ **What Are We Looking For?**
 
-### **Required Qualifications:**
+**Required Qualifications:**
 - An Australian First Class Bachelor (Honours) degree,  
 - A Research Masters degree, or  
 - Equivalent overseas qualifications in cognitive science, computer science, mathematics, engineering, or a related subject.  
@@ -22,7 +22,7 @@ We are seeking highly motivated and talented candidates to join our lab at the U
 - Fluency in English.
 - Open to both domestic and international applicants.  
 
-### **Desired Qualifications:**
+**Desired Qualifications:**
 - Understanding of machine learning methods and tools.  
 - Interest in translational neuroscience and BCI applications.  
 - Knowledge of behavioural and (neuro)physiological recording techniques (e.g., eye-tracking, cardiac monitoring, electrodermal response, EEG, fMRI).  
@@ -30,14 +30,14 @@ We are seeking highly motivated and talented candidates to join our lab at the U
 
 ---
 
-## 💰 **Funding Details**
+### 💰 **Funding Details**
 - Fully funded position, including tuition fees.  
 - Competitive stipend of **$37,000 AUD per annum** for 3.5 years.  
 - Support for conference attendance and travel.  
 
 ---
 
-## 📄 **How to Apply**
+### 📄 **How to Apply**
 To apply or inquires, please email the following to **[avinash.singh@uts.edu.au](mailto:avinash.singh@uts.edu.au)**:  
 1. A detailed CV.  
 2. A cover letter outlining your research interests and experience.  

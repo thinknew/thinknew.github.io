@@ -11,7 +11,7 @@ Working at the intersection of machine learning, cognitive neuroscience, and mix
 ## News & Updates
 ### Jan 2025
 - 🎓 **PhD Position Opening**:  
-  We are excited to announce two fully-funded PhD positions in my lab! This opportunity focuses on cutting-edge research in [research area, e.g., brain-computer interfaces and AI-driven neuroscience].  
+  We are excited to announce two fully-funded PhD positions in my lab! This opportunity focuses on cutting-edge research in brain-computer interfaces and AI-driven neuroscience.  
   - 🕒 **Deadline**: Until position is filled 
 
 ### Dec 2024

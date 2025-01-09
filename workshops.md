@@ -3,14 +3,14 @@ layout: page
 title: Workshops
 ---
 
-# Annual BCI Workshops
+## Annual BCI Workshops
 
-## Overview
+### Overview
 The Annual BCI Workshop series is an event that brings together researchers, practitioners, and enthusiasts in the field of Brain-Computer Interfaces (BCIs). Each year, the workshop focuses on cutting-edge developments, applications, and challenges in the BCI domain, fostering collaboration and innovation across disciplines.
 
 ---
 
-## **BCI Workshop 2024**
+### **BCI Workshop 2024**
 - **Theme**: Neuroadaptive Interfaces and First BCI Drone Race  
 - **Date**: 17th Jun 2024
 - **Location**: University of Technology Sydney 
@@ -22,7 +22,7 @@ The Annual BCI Workshop series is an event that brings together researchers, pra
 
 ---
 
-## **BCI Workshop 2023**
+### **BCI Workshop 2023**
 - **Theme**: Standardization of terminologies and technologies for BCI
 - **Date**: 26th Jun 2023
 - **Location**: University of Technology Sydney 
@@ -34,7 +34,7 @@ The Annual BCI Workshop series is an event that brings together researchers, pra
 
 ---
 
-## **BCI Workshop 2022**
+### **BCI Workshop 2022**
 - **Theme**: Bridge the gap between Neuroscience & Computational Intelligence 
 - **Date**: 22nd Jun 2022  
 - **Location**: University of Technology Sydney 
@@ -46,13 +46,13 @@ The Annual BCI Workshop series is an event that brings together researchers, pra
 
 ---
 
-## Why Attend the BCI Workshop Series?
+### Why Attend the BCI Workshop Series?
 - **Cutting-Edge Content**: Each year focuses on the latest trends, ensuring participants stay ahead in BCI research and development.  
 - **Networking Opportunities**: Connect with leading scientists, educators, and professionals in the BCI field.  
 - **Hands-On Learning**: Participate in tutorials, demonstrations, and collaborative sessions.
 
 ---
 
-## Future Workshops
-Stay tuned for updates on the upcoming **BCI Workshop 2025**! 
+### Future Workshops
+- Stay tuned for updates on the upcoming BCI Workshop 2025! 
 ---

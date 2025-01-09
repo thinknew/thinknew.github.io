@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: "Openings"
+---
 
 # 🧠 PhD Position Opening: Neuro-AI and Brain-Computer Interfaces
 

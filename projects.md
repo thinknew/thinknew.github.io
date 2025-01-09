@@ -2,7 +2,7 @@
 layout: page
 title: "Projects"
 ---
-## 🌟 Selected Ongoing Projects
+## Selected Ongoing Projects
 
 ### 1. **Neuroadaptive BCI Applications**  
 Transforming brain-computer interfaces (BCI) into powerful tools for enhancing communication and cognition:

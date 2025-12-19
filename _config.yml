@@ -20,6 +20,7 @@ author: Avinash Singh
 navbar-links:
   About Me: "index"
   Project: "projects"
+  Lab: "HAL"
   Workshop: "workshops"
   Openings: "openings"
   Publications: "publications"
@@ -54,7 +55,7 @@ social-network-links:
   twitter: avinash_singhh
   youtube: channel/UChOSlAViPP9BHVNZYaDS3mw
   linkedin: avinashks
-  google-scholar: citations?user=TySBNG8AAAAJ&hl=en
+  google-scholar: TySBNG8AAAAJ&hl
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali

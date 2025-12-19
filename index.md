@@ -4,12 +4,16 @@ title: Avinash Singh
 subtitle: University of Technology Sydney
 ---
 
-I am a Senior Lecturer (~Associate Professor) at the School of Computer Science and Australian AI Institute at the University of Technology Sydney (UTS), Australia. I serve as a co-chair of the IEEE Neuroethics Framework for the Workplace, sponsored by IEEE Brain, a member of the IEEE Standards Committee on Unifying Brain-Computer Interfaces (BCI), expert advisor for [UNICEF](https://www.unicef.org/innocenti/projects/neurotechnology-and-children) and [The Centre of Neurotechnology and Law, UK](https://www.neurotechlaw.com/ourpanel). I actively advocate for and support transhumanism and founded the India Future Society, a think tank.
+I am a Senior Lecturer at the School of Computer Science and the Australian AI Institute at the University of Technology Sydney (UTS), Australia, and Director of the Human Augmentation Lab. My research focuses on brain–computer interfaces (BCI), neuroadaptive systems, and human augmentation, working at the intersection of machine learning, cognitive neuroscience, and mixed reality to develop real-world neuroadaptive BCI technologies for cognitive enhancement and decision-making.
 
-Working at the intersection of machine learning, cognitive neuroscience, and mixed-reality, I am dedicated to designing and developing real-world neuroadaptive BCI systems. My current research interests include integrating artificial intelligence (AI) technologies with cognitive neuroscience knowledge to explore cognitive functions, discover relationships between brain dynamics, evaluate everyday interactions and make decisions to develop robust next-generation neuroadaptive BCIs.
+I serve as Co-Chair of the IEEE Neuroethics Framework for the Workplace (IEEE Brain), a member of the IEEE Standards Committee on Unifying Brain–Computer Interfaces, and an expert advisor to expert advisor for [UNICEF](https://www.unicef.org/innocenti/projects/neurotechnology-and-children) and [The Centre of Neurotechnology and Law, UK](https://www.neurotechlaw.com/ourpanel). I actively engage in transhumanism research and advocacy, and am the founder of the India Future Society, a think tank exploring emerging technologies and long-term human futures.
 
 ## News & Updates
 ### 2025
+- **Succesful Funding:** ARC Discovery Project funding is secured for three year project on exciting brain–computer interfaces technology with wearable robots.
+- **UNICEF report:** UNICEF Innocenti report on neurotechnology and children’s rights is now online: 
+[*Neurotechnology and Children’s Rights — Preparing for the Future*](https://www.unicef.org/innocenti/media/11426/file/UNICEF-Innocenti-Neurotech-Childrens-rights-Report-2025.pdf).
+- **Paper Accepted**: A journal paper accepted in the Journal of Neural Engineering. 
 - **Paper Accepted**: A paper accepted in the 13th IEEE International Winter Conference on Brain-Computer Interface Conference. 
 - **PhD Position Opening**: I am excited to announce two fully-funded PhD positions in my lab! This opportunity focuses on cutting-edge research in brain-computer interfaces and AI-driven neuroscience. See more details [here](https://thinknew.github.io/openings/)
 

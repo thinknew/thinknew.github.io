@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "HAL"
+title: "hal"
 ---
 
 ### Human Augmentation Lab (HAL) Launch
